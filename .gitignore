@@ -1,5 +1,4 @@
 /Data
 /Python Scripts
-.ipynb_checkpoints
+*.ipynb_checkpoints
 */.ipynb_checkpoints/*
-**/*.ipynb_checkpoints/
